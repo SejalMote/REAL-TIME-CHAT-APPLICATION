@@ -48,7 +48,7 @@ Social Networking: Real-time messaging is a core feature of social apps and plat
 This project not only showcases frontend development skills but also demonstrates the developer’s understanding of real-time communication—a highly demanded feature in today's digital solutions. It's a strong portfolio addition for students and aspiring web developers
 
 
-*OUTPU*:
+*OUTPUT*:
 
 ![Image](https://github.com/user-attachments/assets/a68d9701-f3d9-4dd4-8328-b633229d9866)
 
